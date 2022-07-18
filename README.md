@@ -1,4 +1,3 @@
 # Kokoa Clone 2020 update
 
 HTML & CSS are so much much fun!
-Practice makes Perfect!
